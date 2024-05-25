@@ -1,9 +1,7 @@
-#ცვლადი არის რაღაცის სახელი. წარმოვიდგინოთ რაღაც ყუთი მაგრამ  ყუთი არ იცვლება. იცვლება რაც ყუთში ფვაქვს
+num1 = 300
+num2 = 453
+print (num1*num2)
 
-
-
-company = "apple"
-month = "march"
-book = "robizon cruzo"
-country = "george"
-point = '364'
+num3 = 578
+num4 = 38
+print (num3/num4)
