@@ -4,7 +4,7 @@ from turtle import *
 #we wont to point a house
 
 #step 1: drow a spuare
-speed(30)
+speed(1)
 width(7)
 color("green")
 forward(200)
